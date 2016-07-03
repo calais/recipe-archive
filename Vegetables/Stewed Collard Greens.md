@@ -10,7 +10,7 @@ Cook time: 30-45 minutes
 ## Ingredients  
 | # | Unit | Name  | Prep Notes |
 |---| ---- | ----  | ---------- |
-| 1 | Tbs  | olive oil |     |
+| 1 | Tbsp  | olive oil |     |
 | 3 | slices  | bacon |     |
 | 1/2 |  | onion | diced |
 | 2 | cloves  | garlic | minced |
@@ -18,7 +18,7 @@ Cook time: 30-45 minutes
 |  |   |  |  |
 | 1 | tsp  | salt | mod based on bacon and broth   |
 | 1 | tsp  | pepper |     |
-| 3 | cup  | chicken broth |     |
+| 3 | c  | chicken broth |     |
 | 1 | pinch  | red pepper flakes |     |
 
 

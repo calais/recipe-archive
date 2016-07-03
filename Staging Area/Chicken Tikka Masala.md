@@ -10,7 +10,6 @@ Cook time: 5 hours
 ## Ingredients  
 | # | Unit | Name  | Prep Notes |
 |---| ---- | ----  | ---------- |
-
 | 9 | ct   | Chicken thighs | Whole, boneless, skinless |
 | 1 | Tbsp  | Coriader | Ground     |
 | 1 | Tbsp  | Cumin | Ground     |
@@ -62,5 +61,5 @@ Cook time: 5 hours
 * Corn starch can be substituted with equal quantity of Cleargel
 
 ## Tags
-* Indian
+* Indian Inspired
 * Stew
