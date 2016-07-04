@@ -4,7 +4,7 @@ Original Source: [Site Name](google.com)
 Servings:  
 Total time:  
 Cook time:  
-Oven temp:  
+Oven temp: °  
 
 ## Vital Notes 
 
