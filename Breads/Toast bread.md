@@ -1,4 +1,4 @@
-# Template Title 
+# Basic White Sandwich Bread - for toast
 
 Original Source: [The Kitchn](http://www.thekitchn.com/how-to-make-basic-white-sandwich-bread-cooking-lessons-from-the-kitchn-166588)  
 Servings: 1 loaf  
@@ -26,10 +26,6 @@ Oven temp: 375° preheated to 425°
 6. Preheat oven to 425°.
 7. Slash loaves on top and put in oven. Turn temp down to 375° and bake 30-35 minutes. Finished loaves will be dark golden-brown and sound hollow when tapped on bottom.
 
-## Additional Notes
-
-### Substitutions and Modifications
-* One can be 1
 
 ## Tags
 * bread
