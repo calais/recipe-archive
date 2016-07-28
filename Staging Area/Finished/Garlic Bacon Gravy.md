@@ -2,8 +2,6 @@
 
 Original Source: Chrissy  
 Servings: 3-4  
-Total time:   
-Cook time:  
 
 ## Vital Notes 
 
@@ -14,7 +12,7 @@ Cook time:
 | # | Unit | Name  | Prep Notes |
 |---| ---- | ----  | ---------- |
 | 6 | Tbsp | flour |  |
-| 3/4 | tsp | salt |  |
+| 1/2 | tsp | salt |  |
 | 1/2 | tsp | pepper |  |
 | 1/4 | tsp | paprika |  |
 | 1 | t | garlic powder | or 2 Tbsp minced garlic |
@@ -27,7 +25,7 @@ Cook time:
 | 3 | c | milk |  |
 
 ## Instructions
-1. Combine flour and spices in dish. You want a 1 to 1 ratio of flour to grease.
+1. Combine flour and spices in dish. You want a 1 to 1 ratio of flour to fat.
 2. Cook bacon until just starting to brown. Be careful not to overcook or gravy will taste like burnt bacon. Remove bacon from pan and allow to cool before chopping.
 3. Pour grease into heat safe dish and measure out 4 tablespoons to be returned to the pan. More grease could be substituted for butter to intensify bacon flavor.
 4. Turn heat to medium, add butter and allow to melt. Add flour, mix well and allow to cook until puffy, about 5-7 minutes. You’re making a roux with this step. The longer it cooks the more flavor and color it adds. Longer cook time reduces thickening power if you like a thinner gravy.
